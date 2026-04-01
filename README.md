@@ -5,7 +5,7 @@ Web Dev Intern · MCA student · Bhubaneswar, Odisha
 ---
 
 Started with paintbrushes, switched to code.
-Four years of Visual Arts taught me how to see —
+Four years of Visual Arts taught me how to *see* —
 now I use that to build things that feel good to use.
 
 Still learning. Always shipping.
