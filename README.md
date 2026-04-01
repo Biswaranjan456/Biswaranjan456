@@ -1,19 +1,8 @@
 <div align="center">
 
-<svg width="170" height="170" viewBox="0 0 170 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="roundclip">
-      <rect x="10" y="10" width="150" height="150" rx="28" ry="28"/>
-    </clipPath>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#7C3AED" flood-opacity="0.5"/>
-    </filter>
-  </defs>
-  <rect x="10" y="10" width="150" height="150" rx="28" ry="28" fill="none" stroke="#7C3AED" stroke-width="3" filter="url(#glow)"/>
-  <image xlink:href="https://github.com/Biswaranjan456.png" x="10" y="10" width="150" height="150" clip-path="url(#roundclip)"/>
-</svg>
+<img src="https://github.com/Biswaranjan456.png" width="150" height="150" style="border-radius:20px"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Ex+Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logoColor=white)](https://biswaranjanpatraportfolio.onrender.com)
 
