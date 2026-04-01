@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="https://github.com/Biswaranjan456.png" width="110" style="border-radius:50%;border:3px solid #7C3AED"/>
+<svg width="170" height="170" viewBox="0 0 170 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="roundclip">
+      <rect x="10" y="10" width="150" height="150" rx="28" ry="28"/>
+    </clipPath>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#7C3AED" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect x="10" y="10" width="150" height="150" rx="28" ry="28" fill="none" stroke="#7C3AED" stroke-width="3" filter="url(#glow)"/>
+  <image xlink:href="https://github.com/Biswaranjan456.png" x="10" y="10" width="150" height="150" clip-path="url(#roundclip)"/>
+</svg>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Ex+Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logoColor=white)](https://biswaranjanpatraportfolio.onrender.com)
 
@@ -28,13 +39,14 @@ I am Biswaranjan Patra, an MCA student with a keen interest in web development a
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
 </div>
 
 ---
 
 ### 💼 Experience
 
-![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software-Full%20Stack%20Intern-7C3AED?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul%202025-october-22c55e?style=for-the-badge)
+![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software-Full%20Stack%20Intern-7C3AED?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul%202025-Present-22c55e?style=for-the-badge)
 
 Working on both frontend and backend technologies to develop web-based solutions. Learned and applied HTML, CSS, JavaScript, and database concepts in a real production environment.
 
