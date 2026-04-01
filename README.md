@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/Biswaranjan456.png" width="120" style="border-radius:50%" />
+<img src="https://github.com/Biswaranjan456.png" width="110" style="border-radius:50%;border:3px solid #7C3AED"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Ex+Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Ex+Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logoColor=white)](https://biswaranjanpatraportfolio.onrender.com)
 
 </div>
 
-> Started with paintbrushes, switched to code. Four years of Visual Arts taught me how to *see* — now I use that to build things that feel good to use. Still learning. Always shipping.
+---
+
+I am Biswaranjan Patra, an MCA student with a keen interest in web development and digital technologies. I have built frontend websites using HTML, CSS, and JavaScript, with a focus on making them SEO-friendly and mobile responsive. My background in computer applications and visual arts helps me bring both technical skills and creativity to my work. I am eager to gain real-world experience, improve my skills as a full-stack developer, and contribute to meaningful IT projects.
 
 ---
 
@@ -29,13 +33,13 @@
 
 ![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software-Full%20Stack%20Intern-7C3AED?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Jul 2025](https://img.shields.io/badge/Jul%202025-Present-22c55e?style=for-the-badge)
 
-Working on real frontend + backend modules in a production environment.
+Working on both frontend and backend technologies to develop web-based solutions. Learned and applied HTML, CSS, JavaScript, and database concepts in a real production environment.
 
 <br>
 
 ![Embrizon](https://img.shields.io/badge/Embrizon%20Technologies-Full%20Stack%20Intern-0891B2?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Remote](https://img.shields.io/badge/Jun–Aug%202025-Remote-6b7280?style=for-the-badge)
 
-Built live project UI with HTML, CSS, JS. First real remote team experience.
+Worked on live project modules using HTML, CSS, and JavaScript. Learned teamwork and collaboration in a professional virtual environment.
 
 ---
 
@@ -44,27 +48,20 @@ Built live project UI with HTML, CSS, JS. First real remote team experience.
 ![Rangriti](https://img.shields.io/badge/Rangriti-eCommerce%20UI-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)
 ![Stack](https://img.shields.io/badge/HTML%2FCSS%2FJS-only-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Responsive frontend for a folk art store. Pure HTML/CSS/JS — no framework, just craft.
+Using HTML, CSS, and JavaScript, I created a responsive eCommerce website inspired by Rangriti that showcases folk art products. It features an appealing user interface and a smooth shopping experience.
 
 ---
 
 ![SmartFarm](https://img.shields.io/badge/SmartFarm-Farm%20Management-D97706?style=for-the-badge&logo=leaflet&logoColor=white)
 
-Helps farmers track crops, inventory, and expenses. Simple by design, useful by purpose.
+A digital tool developed to assist farmers with day-to-day tasks like inventory management, crop records, and expense tracking. The system improves farm productivity and decision-making through simple data entry and digital record management.
 
 ---
 
 ![LogSentinel](https://img.shields.io/badge/LogSentinel-Anomaly%20Detection-E11D48?style=for-the-badge&logo=datadog&logoColor=white)
 [![Live](https://img.shields.io/badge/Live-logsentinel.onrender.com-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://logsentinel.onrender.com)
 
-Processes system logs and flags unusual patterns. My first backend-heavy project.
-
----
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-0891B2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://biswaranjanpatraportfolio.onrender.com)
-
-Personal portfolio built and deployed end-to-end.
+A system built for log data processing and anomaly detection. It helps identify unusual patterns in system logs, making it useful for monitoring and debugging applications.
 
 ---
 
