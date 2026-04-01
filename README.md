@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Biswaranjan456.png" width="110" style="border-radius:50%;border:3px solid #7C3AED"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Ex+Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Biswaranjan+%F0%9F%91%8B;Web+Dev+Intern+%7C+MCA+Student;Visual+Artist+%E2%86%92+Developer)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logoColor=white)](https://biswaranjanpatraportfolio.onrender.com)
 
