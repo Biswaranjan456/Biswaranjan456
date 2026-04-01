@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Biswaranjan Patra
 
-🎓 MCA Student | 💻 Developer | 🎨 Ex-Artist  
+💻 Full Stack Web Development Intern  
+🎓 MCA Student (2024–2026)  
+🎨 Former Visual Artist → Developer  
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: School Management System  
-- 🌱 Learning: Flask, FastAPI  
-- 💡 Interested in: Web Development & AI  
+I am an MCA student with a strong interest in web development and digital technologies.  
+I have experience building responsive and SEO-friendly websites using modern technologies.  
+My background in visual arts helps me combine creativity with technical skills to build user-friendly applications.
 
 ---
 
@@ -30,27 +32,78 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-## 🔥 Projects
-- 🏫 School Management System  
-- 🛍️ E-commerce Website  
-- 📊 Knowledge Graph Project  
+---
+
+## 💼 Experience
+
+### 💻 Full Stack Web Development Intern  
+📍 Web Bocket Software Pvt. Ltd. (Onsite)  
+📅 July 2025 – Present  
+- Working on frontend & backend technologies  
+- Developing web-based solutions  
+- Applying HTML, CSS, JavaScript, and database concepts  
 
 ---
 
-## 📫 Contact
-- Email: your-email@gmail.com
+### 🌐 Full Stack Web Development Intern (Virtual)  
+📍 Embrizon Technologies (Remote)  
+📅 June 2025 – August 2025  
+- Worked on live project modules  
+- Built responsive UI using HTML, CSS, JavaScript  
+- Gained teamwork experience in a virtual environment  
 
-<!--
-**Biswaranjan456/Biswaranjan456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Personal Portfolio Website
+- Built and deployed personal portfolio  
+- Showcases skills, projects, and experience  
+- 🔗 Live: https://biswaranjanpatraportfolio.onrender.com  
+
+---
+
+### 📊 LogSentinel – Log Processing & Anomaly Detection System
+- Developed a system for log data processing and anomaly detection  
+- Helps identify unusual patterns in system logs  
+- Useful for monitoring and debugging applications  
+- 🔗 Live: https://logsentinel.onrender.com  
+
+---
+
+### 🛍️ Rangriti eCommerce Website
+- Built using HTML, CSS, JavaScript  
+- Responsive design with smooth UI  
+- Inspired by Rangriti brand  
+
+---
+
+### 🌾 Smart Farm Management System
+- Farm management tool for farmers  
+- Tracks inventory, crops, and expenses  
+- Improves productivity and decision-making  
+---
+
+## 🎯 Skills
+- Teamwork  
+- Problem-solving  
+- Quick learner & adaptable  
+- Creative + analytical thinking  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Biswaranjan456&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+📧 Email: biswaranjanp272@gmail.com  
+📍 Location: Khordha, Odisha  
+🔗 GitHub: https://github.com/Biswaranjan456  
+🔗 LinkedIn: https://www.linkedin.com/in/biswaranjan-patra-82017224b  
+
+---
+
+## 🔥 Goal
+To become a skilled full-stack developer and contribute to impactful real-world projects.
