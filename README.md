@@ -50,12 +50,7 @@ Worked on live project modules using HTML, CSS, and JavaScript. Learned teamwork
 
 ### 🚀 Projects
 
-![Rangriti](https://img.shields.io/badge/Rangriti-eCommerce%20UI-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)
-![Stack](https://img.shields.io/badge/HTML%2FCSS%2FJS-only-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Using HTML, CSS, and JavaScript, I created a responsive eCommerce website inspired by Rangriti that showcases folk art products. It features an appealing user interface and a smooth shopping experience.
-
----
 
 ![SmartFarm](https://img.shields.io/badge/SmartFarm-Farm%20Management-D97706?style=for-the-badge&logo=leaflet&logoColor=white)
 
@@ -69,7 +64,12 @@ A digital tool developed to assist farmers with day-to-day tasks like inventory 
 A system built for log data processing and anomaly detection. It helps identify unusual patterns in system logs, making it useful for monitoring and debugging applications.
 
 ---
+![Rangriti](https://img.shields.io/badge/Rangriti-eCommerce%20UI-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)
+![Stack](https://img.shields.io/badge/HTML%2FCSS%2FJS-only-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+Using HTML, CSS, and JavaScript, I created a responsive eCommerce website inspired by Rangriti that showcases folk art products. It features an appealing user interface and a smooth shopping experience.
+
+---
 ### 📊 GitHub Stats
 
 <div align="center">
