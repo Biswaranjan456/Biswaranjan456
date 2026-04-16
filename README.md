@@ -41,7 +41,6 @@ Worked as a Software Development Intern, learning backend development using Pyth
 ![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software%20Private%20Limited-Full%20Stack%20Intern-0891B2?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![On-site](https://img.shields.io/badge/Jul–nov%202025-Onsite-6b7280?style=for-the-badge)
 Working on both frontend and backend technologies to develop web-based solutions. Learned and applied HTML, CSS, JavaScript, and database concepts in a real production environment.
 
-<br>
 
 ![Embrizon](https://img.shields.io/badge/Embrizon%20Technologies-Full%20Stack%20Intern-0891B2?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Remote](https://img.shields.io/badge/Jun–Aug%202025-Remote-6b7280?style=for-the-badge)
 
