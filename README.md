@@ -36,8 +36,9 @@ I am Biswaranjan Patra, an MCA student with a keen interest in web development a
 ### 💼 Experience
 ![Bandhure solutions LLP](https://img.shields.io/badge/Bandhure%20Solution%20Software-Software%20Development%20Intern-7C3AED?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![On-site](https://img.shields.io/badge/feb%202026-Present-22c55e?style=for-the-badge)
 
+Worked as a Software Development Intern, learning backend development using Python and FastAPI, and working with MongoDB and Neo4j.
 
-![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software%20Private%20Limited-Full%20Stack%20Intern-0891B2?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![Remote](https://img.shields.io/badge/Jun–Aug%202025-Remote-6b7280?style=for-the-badge)
+![Web Bocket](https://img.shields.io/badge/Web%20Bocket%20Software%20Private%20Limited-Full%20Stack%20Intern-0891B2?style=for-the-badge&logo=buildkite&logoColor=white) &nbsp; ![On-site](https://img.shields.io/badge/Jul–nov%202025-On-site-6b7280?style=for-the-badge)
 Working on both frontend and backend technologies to develop web-based solutions. Learned and applied HTML, CSS, JavaScript, and database concepts in a real production environment.
 
 <br>
